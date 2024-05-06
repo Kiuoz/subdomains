@@ -2,9 +2,9 @@
 export default {
     owner: {
         // your github username
-        user: "proj-at",
+        user: "Kiuoz",
         // your github email
-        email: "github@proj.at",
+        email: "tronen.help@gmail.com",
     },
     records: [
         // can include multiple records, if some of them conflict, may be overwritten
